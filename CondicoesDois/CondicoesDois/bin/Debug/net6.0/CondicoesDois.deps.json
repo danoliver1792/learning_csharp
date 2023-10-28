@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CondicoesDois/1.0.0": {
+        "runtime": {
+          "CondicoesDois.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondicoesDois/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

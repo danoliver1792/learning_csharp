@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\bin\Debug\net6.0\EntradaDadosDois.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\bin\Debug\net6.0\EntradaDadosDois.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\bin\Debug\net6.0\EntradaDadosDois.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\bin\Debug\net6.0\EntradaDadosDois.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\bin\Debug\net6.0\EntradaDadosDois.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\refint\EntradaDadosDois.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\EntradaDadosDois.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDadosDois\EntradaDadosDois\obj\Debug\net6.0\ref\EntradaDadosDois.dll

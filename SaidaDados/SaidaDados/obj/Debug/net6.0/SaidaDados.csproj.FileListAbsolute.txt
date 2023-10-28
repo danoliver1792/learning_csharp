@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\refint\SaidaDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\SaidaDados\SaidaDados\obj\Debug\net6.0\ref\SaidaDados.dll

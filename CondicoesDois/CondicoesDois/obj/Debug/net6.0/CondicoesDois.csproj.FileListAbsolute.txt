@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\bin\Debug\net6.0\CondicoesDois.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\bin\Debug\net6.0\CondicoesDois.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\bin\Debug\net6.0\CondicoesDois.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\bin\Debug\net6.0\CondicoesDois.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\bin\Debug\net6.0\CondicoesDois.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\refint\CondicoesDois.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\CondicoesDois.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\CondicoesDois\CondicoesDois\obj\Debug\net6.0\ref\CondicoesDois.dll

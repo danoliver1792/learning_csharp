@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\bin\Debug\net6.0\Condicoes.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\bin\Debug\net6.0\Condicoes.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\bin\Debug\net6.0\Condicoes.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\bin\Debug\net6.0\Condicoes.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\bin\Debug\net6.0\Condicoes.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\refint\Condicoes.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\Condicoes.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\Condicoes\Condicoes\obj\Debug\net6.0\ref\Condicoes.dll

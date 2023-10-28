@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\bin\Debug\net6.0\WhileRep.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\bin\Debug\net6.0\WhileRep.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\bin\Debug\net6.0\WhileRep.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\bin\Debug\net6.0\WhileRep.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\bin\Debug\net6.0\WhileRep.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\refint\WhileRep.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\WhileRep.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\WhileRep\WhileRep\obj\Debug\net6.0\ref\WhileRep.dll

@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\bin\Debug\net6.0\TiposDados.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\bin\Debug\net6.0\TiposDados.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\bin\Debug\net6.0\TiposDados.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\bin\Debug\net6.0\TiposDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\bin\Debug\net6.0\TiposDados.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\refint\TiposDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\TiposDados.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\TiposDados\TiposDados\obj\Debug\net6.0\ref\TiposDados.dll

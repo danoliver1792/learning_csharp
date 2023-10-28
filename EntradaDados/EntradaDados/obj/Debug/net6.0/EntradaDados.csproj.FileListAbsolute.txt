@@ -1,0 +1,14 @@
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.exe
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.deps.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.runtimeconfig.json
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\refint\EntradaDados.dll
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.pdb
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.genruntimeconfig.cache
+C:\Users\danrl\OneDrive\Udemy\C#\Basico\EntradaDados\EntradaDados\obj\Debug\net6.0\ref\EntradaDados.dll

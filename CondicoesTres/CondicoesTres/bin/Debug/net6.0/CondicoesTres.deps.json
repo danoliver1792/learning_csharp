@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CondicoesTres/1.0.0": {
+        "runtime": {
+          "CondicoesTres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondicoesTres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
